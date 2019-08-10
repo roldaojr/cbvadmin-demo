@@ -1,0 +1,3 @@
+CRISPY_ALLOWED_TEMPLATE_PACKS = ('semantic-ui',)
+CRISPY_TEMPLATE_PACK = 'semantic-ui'
+CBVADMIN_TEMPLATE_PACK = 'semantic-ui'

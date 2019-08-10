@@ -1,2 +1,0 @@
-cbvadmin
-cbvadmin-semantic-ui
